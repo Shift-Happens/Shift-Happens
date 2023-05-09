@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shift-happens&label=Profile%20views&color=0e75b6&style=flat" alt="shift-happens" /> </p>
 
-- 🌱 I’m currently learning **Python, Kubernetes and html**
+- 🌱 I’m currently learning **Cloud, Python and Kubernetes**
 
 - 👨‍💻 My portfolio website [https://kubiszewski.net/](https://kubiszewski.net/)
 
