@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cloud, Python and Kubernetes**
 
-- 👨‍💻 My portfolio website [https://kubiszewski.net/](https://kubiszewski.net/)
-
 - ⚡ Fun fact **mistakes are an inseparable part of a sucess**
 
 <h3 align="left">Connect with me:</h3>
