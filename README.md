@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://kubiszewski.org](https://kubiszewski.org)
 
-- 📝 I regularly write articles on [https://kubiszewski.org](https://kubiszewski.org)
-
 - 💬 Ask me about **MachineLearning** , **Building scalable cloud architectures** and  **Developing automation tools**
 
 
