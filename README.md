@@ -1,4 +1,4 @@
-<h1 align="center">Arkadiusz | One man Army & Cloud Engineer</h1>
+<h1 align="center">Arkadiusz | Cloud Admin & Engineer</h1>
 <h3 align="center">Building practical solutions that make life easier. From AWS-powered scrapers to containerized apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shift-happens&label=Profile%20views&color=0e75b6&style=flat" alt="shift-happens" /> </p>
